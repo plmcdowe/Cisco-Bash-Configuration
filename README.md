@@ -7,35 +7,35 @@ This Bash script configures an IOS 17 Catalyst switch through Cisco's "shell pro
 >### **-- Production keys and passwords have been replaced with descriptive strings;**
 >### **-- Production vlans have been replaced;**
 ### Script Actions:
-- .
-  - .
+- 
+  - 
   
-- .
-- .
-- .
-- .
-- .
-- .
-  - .
-  - .
+- 
+- 
+- 
+- 
+- 
+- 
+  - 
+  - 
     
-- .
-- .
-- .
-- :
-  - ;
-  - ;
+- 
+- 
+- 
+- 
+  - 
+  - 
 
-- .
-  - .
+- 
+  - 
     
-- .
-- .
+- 
+- 
 ### Steps to run:
-1. .
-2. .
-3. .
-4. .
-5. .
-6. .
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
 
